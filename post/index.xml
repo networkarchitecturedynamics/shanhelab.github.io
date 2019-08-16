@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
-    <link>https://shanhelab.github.io/post/</link>
-      <atom:link href="https://shanhelab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://shanhelab.github.io/img/icon-192.png</url>
-      <title>Posts</title>
-      <link>https://shanhelab.github.io/post/</link>
-    </image>
+    <title>post on NAD</title>
+    <link>/post/</link>
+    <description>Recent content in post on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr Nic Geard visited our lab.</title>
+      <link>/post/news181008/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/news181008/</guid>
+      <description>&lt;p&gt;Nic is a senior lecturer of the University of Melbourne.
+He is an expert in complex networks and infectious disease transmission.
+He is vising us as a Birmingham IAS Vanguard Fellow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chengbin Hou, Rui He, Mingyang Feng and Gourab Roy joined our lab.</title>
+      <link>/post/news181001/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/news181001/</guid>
+      <description>&lt;p&gt;Chengbin and Gourab will be working on the topics that related to network inference and learning, Rui will be working in Cognitive Collaboration and Mingyang will be working in decentralised search in complex networks.  Welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Professor Ina Koch, Dr Jörg Ackermann and Mr Jens Rieser from Goethe University Frankfort visited our lab.</title>
+      <link>/post/news180628/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/news180628/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

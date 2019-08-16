@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAD</title>
+    <link>/authors/han-zhang/</link>
+    <description>Recent content on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/han-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/han-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/han-zhang/</guid>
+      <description>&lt;p&gt;Han Zhang is currently pursuing a PhD degree under the supervision of Dr Shan He in the departments of Computer Science at the University of Birmingham. His current research interest is metabolite identification using data obtained from mass spectrometry.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

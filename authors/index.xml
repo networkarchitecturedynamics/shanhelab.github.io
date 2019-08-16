@@ -1,25 +1,307 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>https://shanhelab.github.io/authors/</link>
-      <atom:link href="https://shanhelab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://shanhelab.github.io/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>https://shanhelab.github.io/authors/</link>
-    </image>
+    <title>Authors on NAD</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
-      <link>https://shanhelab.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shanhelab.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <link>/authors/shan-he/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shan-he/</guid>
+      <description>&lt;p&gt;Shan is a Senior Lecturer (Tenured Associate Professor) in Computational Biology in School of Computer Science, the University of Birmingham. He is also an affiliate of &lt;a href=&#34;https://www.birmingham.ac.uk/research/activity/mds/centres/computational-biology/index.aspx&#34; target=&#34;_blank&#34;&gt;the Centre for Computational Biology&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;Shan&amp;rsquo;s research interests include complex network analysis, machine learning, optimisation, agent-based modelling and their applications to biological and clinical problems.&lt;/p&gt;
+
+&lt;p&gt;Shan is an Associate Editor of  IEEE Transactions on Nanobioscience. He also serves as the Editorial Board Member of Complex &amp;amp; Intelligent Systems (Springer).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/benjapun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/benjapun/</guid>
+      <description>&lt;p&gt;Benjapun is a Ph.D. student under the supervision of Shan He and Professor Peter Tino. She focused on module identification in protein-protein interaction network and multi-layer networks specifically in time-course network.&lt;/p&gt;
+
+&lt;p&gt;Benjapun graduated with a B.S. in Mathematics from Kasetsart University, Bangkok, Thailand in March 2011 and earned her Master’s Degree in Apply Mathematic and Computational Science from Chulalongkorn University, Bangkok, Thailand in October 2013.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/jiarui-zhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jiarui-zhou/</guid>
+      <description>&lt;p&gt;Jiarui Zhou is a postdoc fellow in the School of Computer Science, University of Birmingham.  He received his Ph.D. in Biomedical Engineering (Zhejiang University, 2014).&lt;/p&gt;
+
+&lt;p&gt;Jiarui&amp;rsquo;s research interests include machine learning (ensemble, deep learning, etc.), complex networks (omics network reconstruction, multilayer, etc.), computational intelligence (memetic computing), and their applications on multi-omics data analysis. He is also working on omics database and workflow development. Jiarui is a researcher, functional programmer, tech nerd, and otaku.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ning-shi/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ning-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/david-mcdonald/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/david-mcdonald/</guid>
+      <description>&lt;p&gt;David is a PhD student under the supervision of Dr Shan He and Professor Peter Tino. He began work on his PhD in September 2016. He is interested in machine learning,
+natural computing, neural networks and complex network analysis.
+He is currently working on using self organizing maps to detect
+communities in networks, and hopes to move onto active module identification
+and to build networks containing an information layer that can produce testable
+ hypotheses. He studied his BSc in Mathematics and Computer Science at the University
+ of Birmingham and then went on to study his MSc, focusing in particular on  evolving
+ neural networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/han-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/han-zhang/</guid>
+      <description>&lt;p&gt;Han Zhang is currently pursuing a PhD degree under the supervision of Dr Shan He in the departments of Computer Science at the University of Birmingham. His current research interest is metabolite identification using data obtained from mass spectrometry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/weifeng-li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/weifeng-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/rui-he/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rui-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/chengbin-hou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chengbin-hou/</guid>
+      <description>&lt;p&gt;Chengbin Hou started his PhD in September 2017 under the supervision of Prof Ke Tang (SUSTech) and Dr Shan He (Uni of Birmingham). He is interested in machine learning and data mining on network/graph data, and is currently focusing on network representation learning (a.k.a. network/graph embedding).&lt;/p&gt;
+
+&lt;p&gt;He received BEng with first class in Electrical Engineering and MSc with distinction in Control Systems from Uni of Liverpool (July 2014) and Imperial College London (November 2015) respectively. Before his PhD study, he worked as an engineer at Huawei.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/gourab-ghosh-roy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/gourab-ghosh-roy/</guid>
+      <description>&lt;p&gt;Gourab Ghosh Roy has started his joint PhD at University of Birmingham and University of Melbourne in 2018.
+He is working on interplay of structure and dynamics for better understanding of networks with special focus on biological networks.&lt;/p&gt;
+
+&lt;p&gt;His research interests also include machine learning, computer vision and optimization algorithms.
+He completed two Masters at The Ohio State University and Erasmus Mundus VIBOT program. He has also worked as a software engineer in data processing for 2 years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/mingyang-feng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mingyang-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/xiang-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xiang-liu/</guid>
+      <description>&lt;p&gt;Xiang Liu is a joint-training PhD student under the supervision of Dr Shan He and Dr Yan Wang in Computer Science. He is interested in computational biology and control engineering. His current work focuses on gene regulatory network inference and control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ke Tang</title>
+      <link>/authors/ke-tang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ke-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parker David</title>
+      <link>/authors/parker-david/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/parker-david/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zexuan Zhu</title>
+      <link>/authors/zexuan-zhu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zexuan-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Ou-Yang</title>
+      <link>/authors/le-ou-yang/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/le-ou-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rui Guo</title>
+      <link>/authors/rui-guo/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rui-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YanRan Li</title>
+      <link>/authors/yanran-li/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yanran-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiwen Sun</title>
+      <link>/authors/yiwen-sun/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yiwen-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dong Li</title>
+      <link>/authors/dong-li/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dong-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guyu Hu</title>
+      <link>/authors/guyu-hu/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/guyu-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Liu</title>
+      <link>/authors/jing-liu/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jing-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiqi Chen</title>
+      <link>/authors/weiqi-chen/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/weiqi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhisong Pan</title>
+      <link>/authors/zhisong-pan/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zhisong-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel A. Tennant</title>
+      <link>/authors/daniel-a.-tennant/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daniel-a.-tennant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guanbo Jia</title>
+      <link>/authors/guanbo-jia/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/guanbo-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiang Huang</title>
+      <link>/authors/qiang-huang/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/qiang-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>et al</title>
+      <link>/authors/et-al/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/et-al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;Network Architechtures and Dynamics (NAD)&lt;/strong&gt; group, a research group lead by &lt;a href=&#34;https://www.cs.bham.ac.uk/~szh/&#34; target=&#34;_blank&#34;&gt;Dr. Shan He&lt;/a&gt;,
+Senior Lecturer (Associate Professor) in School of Computer Science at the University of Birmingham.&lt;/p&gt;
+
+&lt;p&gt;The overall goal of our group is to develop algorithms to discover knowledge from biomedical data.  We are currently focusing on network inference and network learning algorithms and their applications to cancer. Here you can find more about us and our research.&lt;/p&gt;
 </description>
     </item>
     

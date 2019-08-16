@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAD</title>
+    <link>/authors/gourab-ghosh-roy/</link>
+    <description>Recent content on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/gourab-ghosh-roy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/gourab-ghosh-roy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/gourab-ghosh-roy/</guid>
+      <description>&lt;p&gt;Gourab Ghosh Roy has started his joint PhD at University of Birmingham and University of Melbourne in 2018.
+He is working on interplay of structure and dynamics for better understanding of networks with special focus on biological networks.&lt;/p&gt;
+
+&lt;p&gt;His research interests also include machine learning, computer vision and optimization algorithms.
+He completed two Masters at The Ohio State University and Erasmus Mundus VIBOT program. He has also worked as a software engineer in data processing for 2 years.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

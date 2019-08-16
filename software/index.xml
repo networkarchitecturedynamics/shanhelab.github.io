@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on NAD</title>
+    <link>/software/</link>
+    <description>Recent content in Softwares on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DiME: A Scalable Disease Module Extraction Algorithm</title>
+      <link>/software/dime/dime/</link>
+      <pubDate>Tue, 11 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/software/dime/dime/</guid>
+      <description>&lt;p&gt;Yunpeng Liu developed a disease module extracted algorithm for biological networks.
+We have applied the algorithm to Glima progression gene expression dataset and discovered several
+new potential regulators. The &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086693&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; was published in PLOS ONE.
+You can download the &lt;a href=&#34;http://www.cs.bham.ac.uk/~szh/DiME/&#34; target=&#34;_blank&#34;&gt;source code and R package&lt;/a&gt; from the software webpage,
+where you can also find a comprehensive user guide and a sample dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MODA: Module differential analysis for weighted gene co-expression network</title>
+      <link>/software/moda/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/software/moda/</guid>
+      <description>&lt;p&gt;MODA: Module differential analysis for weighted gene co-expression network
+Dong Li developed a R package to conduct module differential analysis for weighted gene co-expression networks based on WGCNA, a popular algorithm for weighted co-expression network analysis.
+You can download the &lt;a href=&#34;https://github.com/fairmiracle/MODA&#34; target=&#34;_blank&#34;&gt;source code&lt;/a&gt; from our Github.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ATEN: And/Or Tree Ensemble for inferring accurate Boolean network topology and dynamics</title>
+      <link>/software/aten/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/software/aten/</guid>
+      <description>&lt;p&gt;Ning developed a R package for inferring both network topology and dynamics&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMOUNTAIN: Active modules for multilayer weighted gene co-expression networks</title>
+      <link>/software/amountain/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/software/amountain/</guid>
+      <description>&lt;p&gt;Dong Li developed a novel algorithm to identify active modules from multilayer weighted gene co-expression networks based on a convex optimization approach. You can download &lt;a href=&#34;https://github.com/fairmiracle/AMOUNTAIN&#34; target=&#34;_blank&#34;&gt;the source code&lt;/a&gt; from our Github.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

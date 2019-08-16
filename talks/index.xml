@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on NAD</title>
+    <link>/talks/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to write computer science papers</title>
+      <link>/talks/shan/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/shan/</guid>
+      <description>&lt;p&gt;Shan gave a tutorial on 15 July 2017 on &lt;a href=&#34;../../slides/document1.pdf&#34;&gt;how to write
+ computer science papers&lt;/a&gt; based on a few useful books and UEFAP website.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

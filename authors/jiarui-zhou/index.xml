@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAD</title>
+    <link>/authors/jiarui-zhou/</link>
+    <description>Recent content on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/jiarui-zhou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/jiarui-zhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jiarui-zhou/</guid>
+      <description>&lt;p&gt;Jiarui Zhou is a postdoc fellow in the School of Computer Science, University of Birmingham.  He received his Ph.D. in Biomedical Engineering (Zhejiang University, 2014).&lt;/p&gt;
+
+&lt;p&gt;Jiarui&amp;rsquo;s research interests include machine learning (ensemble, deep learning, etc.), complex networks (omics network reconstruction, multilayer, etc.), computational intelligence (memetic computing), and their applications on multi-omics data analysis. He is also working on omics database and workflow development. Jiarui is a researcher, functional programmer, tech nerd, and otaku.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

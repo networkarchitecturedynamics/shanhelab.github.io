@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAD</title>
+    <link>/authors/benjapun/</link>
+    <description>Recent content on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/benjapun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/benjapun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/benjapun/</guid>
+      <description>&lt;p&gt;Benjapun is a Ph.D. student under the supervision of Shan He and Professor Peter Tino. She focused on module identification in protein-protein interaction network and multi-layer networks specifically in time-course network.&lt;/p&gt;
+
+&lt;p&gt;Benjapun graduated with a B.S. in Mathematics from Kasetsart University, Bangkok, Thailand in March 2011 and earned her Master’s Degree in Apply Mathematic and Computational Science from Chulalongkorn University, Bangkok, Thailand in October 2013.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

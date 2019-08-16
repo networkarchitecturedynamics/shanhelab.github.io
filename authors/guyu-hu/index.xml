@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guyu Hu on NAD</title>
+    <link>/authors/guyu-hu/</link>
+    <description>Recent content in Guyu Hu on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/guyu-hu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Active module identification in intracellular networks using a memetic algorithm with a new binary decoding scheme</title>
+      <link>/publication/active-module-identification-in-intracellular-networks-using-a-memetic-algorithm-with-a-new-binary-decoding-scheme/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/active-module-identification-in-intracellular-networks-using-a-memetic-algorithm-with-a-new-binary-decoding-scheme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

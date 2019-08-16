@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAD</title>
+    <link>/authors/shan-he/</link>
+    <description>Recent content on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/shan-he/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cooperative Co-evolutionary Module Identification with Application to Cancer Disease Module Discovery.</title>
+      <link>/publication/cooperative-co-evolutionary-module-identification-with-application-to-cancer-disease-module-discovery/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cooperative-co-evolutionary-module-identification-with-application-to-cancer-disease-module-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/shan-he/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shan-he/</guid>
+      <description>&lt;p&gt;Shan is a Senior Lecturer (Tenured Associate Professor) in Computational Biology in School of Computer Science, the University of Birmingham. He is also an affiliate of &lt;a href=&#34;https://www.birmingham.ac.uk/research/activity/mds/centres/computational-biology/index.aspx&#34; target=&#34;_blank&#34;&gt;the Centre for Computational Biology&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Shan&amp;rsquo;s research interests include complex network analysis, machine learning, optimisation, agent-based modelling and their applications to biological and clinical problems.&lt;/p&gt;
+
+&lt;p&gt;Shan is an Associate Editor of  IEEE Transactions on Nanobioscience. He also serves as the Editorial Board Member of Complex &amp;amp; Intelligent Systems (Springer).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active module identification in intracellular networks using a memetic algorithm with a new binary decoding scheme</title>
+      <link>/publication/active-module-identification-in-intracellular-networks-using-a-memetic-algorithm-with-a-new-binary-decoding-scheme/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/active-module-identification-in-intracellular-networks-using-a-memetic-algorithm-with-a-new-binary-decoding-scheme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prior knowledge guided active modules identification: an integrated multi-objective approach.</title>
+      <link>/publication/prior-knowledge-guided-active-modules-identification-an-integrated-multi-objective-approach/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/prior-knowledge-guided-active-modules-identification-an-integrated-multi-objective-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RepLong: de novo repeat identification using long read sequencing data</title>
+      <link>/publication/replong-de-novo-repeat-identification-using-long-read-sequencing-data/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/replong-de-novo-repeat-identification-using-long-read-sequencing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And/Or Tree Ensemble for inferring accurate Boolean network topology and dynamics</title>
+      <link>/publication/aten/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/aten/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

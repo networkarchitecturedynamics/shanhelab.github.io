@@ -1,46 +1,179 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://shanhelab.github.io/</link>
-      <atom:link href="https://shanhelab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://shanhelab.github.io/img/icon-192.png</url>
-      <title>Academic</title>
-      <link>https://shanhelab.github.io/</link>
-    </image>
+    <title>NAD</title>
+    <link>/</link>
+    <description>Recent content on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <title>Cooperative Co-evolutionary Module Identification with Application to Cancer Disease Module Discovery.</title>
+      <link>/publication/cooperative-co-evolutionary-module-identification-with-application-to-cancer-disease-module-discovery/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cooperative-co-evolutionary-module-identification-with-application-to-cancer-disease-module-discovery/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://shanhelab.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shanhelab.github.io/post/</guid>
+      <title>DiME: A Scalable Disease Module Extraction Algorithm</title>
+      <link>/software/dime/dime/</link>
+      <pubDate>Tue, 11 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/software/dime/dime/</guid>
+      <description>&lt;p&gt;Yunpeng Liu developed a disease module extracted algorithm for biological networks.
+We have applied the algorithm to Glima progression gene expression dataset and discovered several
+new potential regulators. The &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086693&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; was published in PLOS ONE.
+You can download the &lt;a href=&#34;http://www.cs.bham.ac.uk/~szh/DiME/&#34; target=&#34;_blank&#34;&gt;source code and R package&lt;/a&gt; from the software webpage,
+where you can also find a comprehensive user guide and a sample dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active module identification in intracellular networks using a memetic algorithm with a new binary decoding scheme</title>
+      <link>/publication/active-module-identification-in-intracellular-networks-using-a-memetic-algorithm-with-a-new-binary-decoding-scheme/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/active-module-identification-in-intracellular-networks-using-a-memetic-algorithm-with-a-new-binary-decoding-scheme/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://shanhelab.github.io/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shanhelab.github.io/publication/</guid>
+      <title>Prior knowledge guided active modules identification: an integrated multi-objective approach.</title>
+      <link>/publication/prior-knowledge-guided-active-modules-identification-an-integrated-multi-objective-approach/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/prior-knowledge-guided-active-modules-identification-an-integrated-multi-objective-approach/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://shanhelab.github.io/talk/</link>
+      <title>MODA: Module differential analysis for weighted gene co-expression network</title>
+      <link>/software/moda/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/software/moda/</guid>
+      <description>&lt;p&gt;MODA: Module differential analysis for weighted gene co-expression network
+Dong Li developed a R package to conduct module differential analysis for weighted gene co-expression networks based on WGCNA, a popular algorithm for weighted co-expression network analysis.
+You can download the &lt;a href=&#34;https://github.com/fairmiracle/MODA&#34; target=&#34;_blank&#34;&gt;source code&lt;/a&gt; from our Github.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RepLong: de novo repeat identification using long read sequencing data</title>
+      <link>/publication/replong-de-novo-repeat-identification-using-long-read-sequencing-data/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/replong-de-novo-repeat-identification-using-long-read-sequencing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And/Or Tree Ensemble for inferring accurate Boolean network topology and dynamics</title>
+      <link>/publication/aten/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/aten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/slides/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>/slides/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ATEN: And/Or Tree Ensemble for inferring accurate Boolean network topology and dynamics</title>
+      <link>/software/aten/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/software/aten/</guid>
+      <description>&lt;p&gt;Ning developed a R package for inferring both network topology and dynamics&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Nic Geard visited our lab.</title>
+      <link>/post/news181008/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/news181008/</guid>
+      <description>&lt;p&gt;Nic is a senior lecturer of the University of Melbourne.
+He is an expert in complex networks and infectious disease transmission.
+He is vising us as a Birmingham IAS Vanguard Fellow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chengbin Hou, Rui He, Mingyang Feng and Gourab Roy joined our lab.</title>
+      <link>/post/news181001/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/news181001/</guid>
+      <description>&lt;p&gt;Chengbin and Gourab will be working on the topics that related to network inference and learning, Rui will be working in Cognitive Collaboration and Mingyang will be working in decentralised search in complex networks.  Welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Professor Ina Koch, Dr Jörg Ackermann and Mr Jens Rieser from Goethe University Frankfort visited our lab.</title>
+      <link>/post/news180628/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/news180628/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to write computer science papers</title>
+      <link>/talks/shan/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/shan/</guid>
+      <description>&lt;p&gt;Shan gave a tutorial on 15 July 2017 on &lt;a href=&#34;../../slides/document1.pdf&#34;&gt;how to write
+ computer science papers&lt;/a&gt; based on a few useful books and UEFAP website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMOUNTAIN: Active modules for multilayer weighted gene co-expression networks</title>
+      <link>/software/amountain/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/software/amountain/</guid>
+      <description>&lt;p&gt;Dong Li developed a novel algorithm to identify active modules from multilayer weighted gene co-expression networks based on a convex optimization approach. You can download &lt;a href=&#34;https://github.com/fairmiracle/AMOUNTAIN&#34; target=&#34;_blank&#34;&gt;the source code&lt;/a&gt; from our Github.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>deCode</title>
+      <link>/project/decode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shanhelab.github.io/talk/</guid>
+      
+      <guid>/project/decode/</guid>
       <description></description>
     </item>
     

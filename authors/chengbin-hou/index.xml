@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAD</title>
+    <link>/authors/chengbin-hou/</link>
+    <description>Recent content on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/chengbin-hou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/chengbin-hou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chengbin-hou/</guid>
+      <description>&lt;p&gt;Chengbin Hou started his PhD in September 2017 under the supervision of Prof Ke Tang (SUSTech) and Dr Shan He (Uni of Birmingham). He is interested in machine learning and data mining on network/graph data, and is currently focusing on network representation learning (a.k.a. network/graph embedding).&lt;/p&gt;
+
+&lt;p&gt;He received BEng with first class in Electrical Engineering and MSc with distinction in Control Systems from Uni of Liverpool (July 2014) and Imperial College London (November 2015) respectively. Before his PhD study, he worked as an engineer at Huawei.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zexuan Zhu on NAD</title>
+    <link>/authors/zexuan-zhu/</link>
+    <description>Recent content in Zexuan Zhu on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/zexuan-zhu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cooperative Co-evolutionary Module Identification with Application to Cancer Disease Module Discovery.</title>
+      <link>/publication/cooperative-co-evolutionary-module-identification-with-application-to-cancer-disease-module-discovery/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cooperative-co-evolutionary-module-identification-with-application-to-cancer-disease-module-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active module identification in intracellular networks using a memetic algorithm with a new binary decoding scheme</title>
+      <link>/publication/active-module-identification-in-intracellular-networks-using-a-memetic-algorithm-with-a-new-binary-decoding-scheme/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/active-module-identification-in-intracellular-networks-using-a-memetic-algorithm-with-a-new-binary-decoding-scheme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RepLong: de novo repeat identification using long read sequencing data</title>
+      <link>/publication/replong-de-novo-repeat-identification-using-long-read-sequencing-data/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/replong-de-novo-repeat-identification-using-long-read-sequencing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And/Or Tree Ensemble for inferring accurate Boolean network topology and dynamics</title>
+      <link>/publication/aten/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/aten/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

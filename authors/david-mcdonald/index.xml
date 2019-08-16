@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAD</title>
+    <link>/authors/david-mcdonald/</link>
+    <description>Recent content on NAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/david-mcdonald/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/david-mcdonald/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/david-mcdonald/</guid>
+      <description>&lt;p&gt;David is a PhD student under the supervision of Dr Shan He and Professor Peter Tino. He began work on his PhD in September 2016. He is interested in machine learning,
+natural computing, neural networks and complex network analysis.
+He is currently working on using self organizing maps to detect
+communities in networks, and hopes to move onto active module identification
+and to build networks containing an information layer that can produce testable
+ hypotheses. He studied his BSc in Mathematics and Computer Science at the University
+ of Birmingham and then went on to study his MSc, focusing in particular on  evolving
+ neural networks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
